@@ -8,8 +8,10 @@
 """
  * Python 프로그램 작성 예제 hubo를 사용한 함수의 활용
 """
+# python
+python
+
 # import_library
-from ast import For
 from cs1robots import *
 
 #opne
